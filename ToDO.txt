@@ -1,0 +1,5 @@
+https://towardsdatascience.com/creating-a-custom-openai-gym-environment-for-stock-trading-be532be3910e
+
+https://spinningup.openai.com/en/latest/algorithms/trpo.html
+
+https://openai.com/blog/openai-baselines-ppo/
